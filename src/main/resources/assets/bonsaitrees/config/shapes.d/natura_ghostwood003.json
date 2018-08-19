@@ -1,0 +1,90 @@
+{
+  "type": "natura:ghostwood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:nether_leaves",
+      "meta": 8
+    },
+    "b": {
+      "name": "natura:nether_leaves",
+      "meta": 0
+    },
+    "c": {
+      "name": "natura:nether_logs",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "   bbb ",
+      "   bbb ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  bbb  ",
+      "  bbbbb",
+      "  bbbbb",
+      "    b  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   b   ",
+      " bbbbb ",
+      " bbbbbb",
+      " baaabb",
+      " baaab ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  bbb  ",
+      " bbbbb ",
+      " bbbbbb",
+      "bbaaabb",
+      "bbaca  ",
+      "  ac   ",
+      "   c   ",
+      "   c   "
+    ],
+    [
+      "   b   ",
+      " bbbbb ",
+      " bbbbb ",
+      "bbaaab ",
+      "bbaaa  ",
+      " baa   ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  bbb  ",
+      "  bbb  ",
+      "bbbbb  ",
+      "bbbbb  ",
+      "  b    ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      " bbb   ",
+      " bbb   ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

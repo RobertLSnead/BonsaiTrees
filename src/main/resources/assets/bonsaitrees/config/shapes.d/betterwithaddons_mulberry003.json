@@ -1,0 +1,65 @@
+{
+  "type": "betterwithaddons:mulberry",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "betterwithaddons:leaves_mulberry",
+      "meta": 0
+    },
+    "b": {
+      "name": "betterwithaddons:log_mulberry",
+      "meta": 4
+    },
+    "c": {
+      "name": "betterwithaddons:leaves_mulberry",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " aaca",
+      "acac ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      " cac ",
+      "cacaa",
+      "caaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "cabaa",
+      "cabac",
+      "  b  ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " caa ",
+      "accaa",
+      "aacaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " aaca",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}
